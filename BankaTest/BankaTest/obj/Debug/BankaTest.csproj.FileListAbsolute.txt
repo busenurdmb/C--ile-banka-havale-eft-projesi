@@ -1,0 +1,13 @@
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\bin\Debug\BankaTest.exe.config
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\bin\Debug\BankaTest.exe
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\bin\Debug\BankaTest.pdb
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Form1.resources
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Form2.resources
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Form3.resources
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.exe
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.pdb
+C:\Users\BUSE NUR\source\repos\BankaTest\BankaTest\obj\Debug\BankaTest.Form4.resources
